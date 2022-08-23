@@ -36,8 +36,11 @@ body:
       description: Tell us how we can recreate this issue so we can fix it
       placeholder: |
         1. In this environment...
+        
         2. With this config...
+        
         3. Run '...'
+        
         4. See error...
     validations:
       required: false
